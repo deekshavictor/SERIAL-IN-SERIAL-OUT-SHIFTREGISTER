@@ -62,7 +62,8 @@ Developed by:deeksha victor RegisterNumber:25018981
 
 
 **TIMING DIGRAMS FOR SISO Shift Register**
-<img width="1920" height="1020" alt="Screenshot 2025-10-07 183649" src="https://github.com/user-attachments/assets/5fb90879-f27a-414d-86d7-eefd6312fa39" />
+<img width="777" height="404" alt="image" src="https://github.com/user-attachments/assets/9a9e918d-ee5f-4957-9951-eb9d4f6c630c" />
+
 
 
 **RESULTS**
